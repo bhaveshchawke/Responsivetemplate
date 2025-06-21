@@ -1,2 +1,2 @@
-# Responsivetemplate
-this is a responsive blog template
+# Responsivetemplat
+i am a main branch
